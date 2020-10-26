@@ -8,8 +8,9 @@ Practicing Specflow and RestSharp
  - RestSharp
  - json-server (for the api simulation)
  
- ### Steps
-  - Start [json-server](https://github.com/typicode/json-server)
+ ### Steps (project directory)
+  - Start [json-server](https://github.com/typicode/json-server):
+    - json-server --watch api_simulator/db.json
   - dotnet test
 
 #### Reference: 
