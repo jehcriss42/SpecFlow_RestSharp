@@ -15,4 +15,4 @@ Practicing Specflow and RestSharp
 
 #### Reference: 
 
-API testing with RestSharp and Specflow in C#
+API testing with RestSharp and Specflow in C# (udemy - Karthik KK)
